@@ -4,12 +4,13 @@ initPrintOut(document.getElementById("txtOut"));
 
 printOut("--- Part 1 ----------------------------------------------------------------------------------------------");
 /* Put your code below here!*/
-printOut("Replace this with you answer!");
+printOut("2+3*2-4*6="+(2+3*2-4*6).toString());
+printOut("2+(3*(2-4))*6="+(2+(3*(2-4)*6)).toString())
 printOut(newLine);
 
 printOut("--- Part 2 ----------------------------------------------------------------------------------------------");
 /* Put your code below here!*/
-printOut("Replace this with you answer!");
+printOut("25 meters and 34 centimeters="+(25.34/0.0254).toString());
 printOut(newLine);
 
 printOut("--- Part 3 ----------------------------------------------------------------------------------------------");
